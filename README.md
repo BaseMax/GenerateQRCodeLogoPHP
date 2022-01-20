@@ -4,4 +4,4 @@ Generate custom QR-Code with own Logo from text using PHP
 
 ------
 
-Thanks Jeroen Enden, since this program will not work without him effort. https://github.com/endroid/qr-code
+Thanks [Jeroen Enden](https://github.com/endroid/qr-code), since this program will not work without him effort. 
